@@ -1,0 +1,7 @@
+{
+  "name": "InAppBroswer",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
