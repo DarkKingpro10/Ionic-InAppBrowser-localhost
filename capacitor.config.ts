@@ -2,7 +2,7 @@ import { CapacitorConfig } from '@capacitor/cli';
 
 const config: CapacitorConfig = {
   appId: 'io.ionic.starter',
-  appName: 'InAppBroswer',
+  appName: 'Smart Book',
   webDir: 'www',
   bundledWebRuntime: false
 };
